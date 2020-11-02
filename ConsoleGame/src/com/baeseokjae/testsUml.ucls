@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.baeseokjae.MonsterBattle" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/MonsterBattle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="179" x="1345" y="2169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.baeseokjae.AdelBossBattleThread" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/AdelBossBattleThread.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="185" x="3314" y="3387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.baeseokjae.AdelBattle" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/AdelBattle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="155" width="160" x="1605" y="1920"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.baeseokjae.Slime" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/Slime.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="83" width="224" x="3386" y="6171"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.baeseokjae.Interface" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/Interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="947" width="145" x="4443" y="3387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.baeseokjae.Character" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/Character.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="461" width="215" x="2605" y="2328"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.baeseokjae.Buff" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/Buff.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="226" x="4093" y="3387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.baeseokjae.Environment" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/Environment.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="126" x="2923" y="3387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.baeseokjae.MapleStory" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/MapleStory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="124" x="3438" y="2169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.baeseokjae.BuffThread" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/BuffThread.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="276" x="4001" y="2328"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.baeseokjae.Service" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/Service.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1019" width="252" x="1345" y="2328"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.baeseokjae.MacroCheck" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/MacroCheck.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="124" x="1242" y="1920"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.baeseokjae.Adel" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/Adel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="569" width="1394" x="1577" y="5562"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.baeseokjae.Job" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/Job.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="2135" width="1222" x="1577" y="3387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.baeseokjae.Monster" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/Monster.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="281" width="237" x="3386" y="5562"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.baeseokjae.Barlock" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/Barlock.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="234" x="1537" y="6171"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.baeseokjae.BossSlime" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/BossSlime.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="83" width="251" x="4091" y="6171"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.baeseokjae.Shop" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/Shop.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1379" width="190" x="1305" y="3387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.baeseokjae.Music" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/Music.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="159" x="1406" y="1920"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.baeseokjae.AdelBossBattle" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/AdelBossBattle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="155" width="187" x="3583" y="1920"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="com.baeseokjae.Mushroom" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/Mushroom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="267" x="3665" y="6171"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.baeseokjae.AdelBattleThread" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/AdelBattleThread.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="185" x="3089" y="3387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.baeseokjae.BossMushroom" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/BossMushroom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="83" width="293" x="4382" y="6171"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.baeseokjae.EnvironmentThread" project="팀노바 자바 과제" 
+    file="/팀노바 자바 과제/src/com/baeseokjae/EnvironmentThread.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="367" x="3644" y="3387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="25">    
+    <bendpoint x="2892" y="2328"/>    
+    <bendpoint x="2892" y="3387"/>    
+    <bendpoint x="3001" y="5562"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="26" name="Slime"/>      
+      <multiplicity id="27" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="28">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="29" name="Buff"/>      
+      <multiplicity id="30" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <association id="32">    
+    <bendpoint x="3653" y="5562"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="33" name="Slime"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="35">    
+    <bendpoint x="3674" y="5562"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="36" name="Mushroom"/>      
+      <multiplicity id="37" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="38">    
+    <bendpoint x="1606" y="2169"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="39" name="service"/>      
+      <multiplicity id="40" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="41">    
+    <bendpoint x="1711" y="2328"/>    
+    <bendpoint x="1546" y="3387"/>    
+    <bendpoint x="1546" y="5562"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="42" name="Barlock"/>      
+      <multiplicity id="43" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="44">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="45" name="Adel"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="48" name="Adel"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <bendpoint x="3407" y="2169"/>    
+    <bendpoint x="3426" y="2328"/>    
+    <bendpoint x="3529" y="3387"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="51" name="monster"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <bendpoint x="1554" y="2169"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="54" name="service"/>      
+      <multiplicity id="55" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="56">    
+    <bendpoint x="3550" y="2328"/>    
+    <bendpoint x="3550" y="3387"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="57" name="monster"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <bendpoint x="3447" y="2328"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="60" name="AdelBossBattle"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="62">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="63" name="BuffThread"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="65">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <association id="66">    
+    <bendpoint x="1669" y="2169"/>    
+    <bendpoint x="1669" y="2328"/>    
+    <bendpoint x="1525" y="3387"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="67" name="Adel"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <bendpoint x="4370" y="2169"/>    
+    <bendpoint x="4412" y="2328"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="70" name="Interface"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="72">    
+    <bendpoint x="4246" y="5562"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="73" name="bossMushroom"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="75">    
+    <bendpoint x="1232" y="2169"/>    
+    <bendpoint x="1232" y="2328"/>    
+    <bendpoint x="1232" y="3387"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="76" name="Adel"/>      
+      <multiplicity id="77" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="78">    
+    <bendpoint x="3190" y="2328"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="79" name="Environment"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="81">    
+    <bendpoint x="3970" y="2328"/>    
+    <bendpoint x="4041" y="3387"/>    
+    <bendpoint x="4020" y="5562"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="82" name="Mushroom"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="84">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="85" name="Adel"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="87">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="88" name="MapleStory"/>      
+      <multiplicity id="89" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="90">    
+    <bendpoint x="4618" y="2169"/>    
+    <bendpoint x="4618" y="2328"/>    
+    <bendpoint x="4618" y="3387"/>    
+    <bendpoint x="4618" y="5562"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="91" name="bossMushroom"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="93">    
+    <bendpoint x="1690" y="2328"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="94" name="Shop"/>      
+      <multiplicity id="95" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="96">    
+    <bendpoint x="1627" y="2169"/>    
+    <bendpoint x="1627" y="2328"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="97" name="Shop"/>      
+      <multiplicity id="98" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="99">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="100" name="Adel"/>      
+      <multiplicity id="101" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="102">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="103" name="Interface"/>      
+      <multiplicity id="104" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="105">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="106" name="MapleStory"/>      
+      <multiplicity id="107" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="108">    
+    <bendpoint x="4349" y="3387"/>    
+    <bendpoint x="4391" y="5562"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="109" name="bossMushroom"/>      
+      <multiplicity id="110" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="111">    
+    <bendpoint x="4307" y="2328"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="112" name="buff"/>      
+      <multiplicity id="113" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="114">    
+    <bendpoint x="4062" y="3387"/>    
+    <bendpoint x="4062" y="5562"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="115" name="bossSlime"/>      
+      <multiplicity id="116" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="117">    
+    <bendpoint x="1648" y="2328"/>    
+    <bendpoint x="2829" y="3387"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="118" name="monster"/>      
+      <multiplicity id="119" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="120">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="121" name="Service"/>      
+      <multiplicity id="122" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="123">    
+    <bendpoint x="4349" y="2169"/>    
+    <bendpoint x="4349" y="2328"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="124" name="buff"/>      
+      <multiplicity id="125" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="126">    
+    <bendpoint x="3876" y="5562"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="127" name="bossSlime"/>      
+      <multiplicity id="128" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="129">    
+    <bendpoint x="3571" y="2328"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="130" name="EnvironmentThread"/>      
+      <multiplicity id="131" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="132">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="133" name="monster"/>      
+      <multiplicity id="134" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="135">    
+    <bendpoint x="1314" y="2169"/>    
+    <bendpoint x="1314" y="2328"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="136" name="Shop"/>      
+      <multiplicity id="137" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="138">    
+    <bendpoint x="4433" y="2169"/>    
+    <bendpoint x="4433" y="2328"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="139" name="Interface"/>      
+      <multiplicity id="140" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="141">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="142" name="monster"/>      
+      <multiplicity id="143" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="144">    
+    <bendpoint x="4041" y="5562"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="145" name="bossMushroom"/>      
+      <multiplicity id="146" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="147">    
+    <bendpoint x="1274" y="3387"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="148" name="Adel"/>      
+      <multiplicity id="149" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="150">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="151" name="Service"/>      
+      <multiplicity id="152" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="153">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <association id="154">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="155" name="monster"/>      
+      <multiplicity id="156" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="157">    
+    <bendpoint x="4391" y="2169"/>    
+    <bendpoint x="4391" y="2328"/>    
+    <bendpoint x="4391" y="3387"/>    
+    <bendpoint x="4370" y="5562"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="158" name="bossSlime"/>      
+      <multiplicity id="159" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="160">    
+    <bendpoint x="1253" y="2328"/>    
+    <bendpoint x="1253" y="3387"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="161" name="Adel"/>      
+      <multiplicity id="162" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="163">    
+    <bendpoint x="2850" y="2328"/>    
+    <bendpoint x="2850" y="3387"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="164" name="Adel"/>      
+      <multiplicity id="165" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="166">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="167" name="Shop"/>      
+      <multiplicity id="168" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="169">    
+    <bendpoint x="4328" y="2328"/>    
+    <bendpoint x="4370" y="3387"/>    
+    <bendpoint x="4349" y="5562"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="170" name="bossSlime"/>      
+      <multiplicity id="171" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="172">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <association id="173">    
+    <bendpoint x="3613" y="3387"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="174" name="monster"/>      
+      <multiplicity id="175" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="176">    
+    <bendpoint x="3571" y="3387"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="177" name="adel"/>      
+      <multiplicity id="178" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="179">    
+    <bendpoint x="3592" y="2169"/>    
+    <bendpoint x="3592" y="2328"/>    
+    <bendpoint x="3592" y="3387"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="180" name="monster"/>      
+      <multiplicity id="181" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="182">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <association id="183">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="184" name="monster"/>      
+      <multiplicity id="185" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="186">    
+    <bendpoint x="3272" y="2328"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="187" name="AdelBattle"/>      
+      <multiplicity id="188" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="189">    
+    <bendpoint x="4370" y="2328"/>    
+    <bendpoint x="4412" y="3387"/>    
+    <bendpoint x="4412" y="5562"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="190" name="bossMushroom"/>      
+      <multiplicity id="191" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="192">    
+    <bendpoint x="2871" y="3387"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <association id="193">    
+    <bendpoint x="4101" y="5562"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="194" name="bossSlime"/>      
+      <multiplicity id="195" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="196">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="197" name="monster"/>      
+      <multiplicity id="198" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="199">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="200" name="Adel"/>      
+      <multiplicity id="201" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="202">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="203">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <association id="204">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="205" name="Adel"/>      
+      <multiplicity id="206" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
